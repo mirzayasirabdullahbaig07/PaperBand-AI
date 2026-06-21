@@ -1,1 +1,1 @@
-# PaperBand-AI
+# PaperBand-Ai
